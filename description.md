@@ -4,9 +4,11 @@
 ### OVERVIEW
 Can you use movement, temperature, and proximity sensor data to differentiate between body-focused repetitive behaviors (BFRBs), like hair pulling, from non-BFRB everyday gestures, like adjusting glasses? The goal of this competition is to develop a predictive model that distinguishes BFRB-like and non-BFRB-like activity using data from a variety of sensors collected via a wrist-worn device. Successfully disentangling these behaviors will improve the design and accuracy of wearable BFRB-detection devices, which are relevant to a wide range of mental illnesses, ultimately strengthening the tools available to support their treatment.
 
+## 팀(Kaggle)
+- Suji-highschool alumni
 
 ## 환경
-- GITHUB, PYTHON, VSCODE
+- GITHUB, PYTHON, VSCODE/GOOGLE COLAB, 
 
 ## 일정
 - 6.7 ~ 6.12
@@ -20,3 +22,13 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
     - EDA
 - 6.22
     - 결과물 회의 및 계획
+
+
+
+## 데이터셋
+
+
+## 모델
+
+
+## 결론

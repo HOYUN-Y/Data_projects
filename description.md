@@ -1,6 +1,16 @@
-hello world
-THIS IS GITHUB repository
+# CMI - Detect Behavior with Sensor Data
+##### https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/overview
 
-import pandas as pd 
-import numpy as np
-import matplotlib
+### OVERVIEW
+Can you use movement, temperature, and proximity sensor data to differentiate between body-focused repetitive behaviors (BFRBs), like hair pulling, from non-BFRB everyday gestures, like adjusting glasses? The goal of this competition is to develop a predictive model that distinguishes BFRB-like and non-BFRB-like activity using data from a variety of sensors collected via a wrist-worn device. Successfully disentangling these behaviors will improve the design and accuracy of wearable BFRB-detection devices, which are relevant to a wide range of mental illnesses, ultimately strengthening the tools available to support their treatment.
+
+
+## 환경
+- GITHUB, PYTHON, VSCODE
+
+## 계획
+- 6.13(금)
+    - Github 환경 설정
+    - 데이터 수집 환경 구축(Kaggle)
+    - 데이터셋 확인
+- 

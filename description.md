@@ -8,9 +8,15 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
 ## 환경
 - GITHUB, PYTHON, VSCODE
 
-## 계획
-- 6.13(금)
+## 일정
+- 6.7 ~ 6.12
     - Github 환경 설정
     - 데이터 수집 환경 구축(Kaggle)
     - 데이터셋 확인
-- 
+- 6.13(금)
+    - 결과물 회의 및 계획
+- 6.14 ~ 6.21
+    - 데이터 형태 확인
+    - EDA
+- 6.22
+    - 결과물 회의 및 계획

@@ -4,33 +4,56 @@
 ### OVERVIEW
 Can you use movement, temperature, and proximity sensor data to differentiate between body-focused repetitive behaviors (BFRBs), like hair pulling, from non-BFRB everyday gestures, like adjusting glasses? The goal of this competition is to develop a predictive model that distinguishes BFRB-like and non-BFRB-like activity using data from a variety of sensors collected via a wrist-worn device. Successfully disentangling these behaviors will improve the design and accuracy of wearable BFRB-detection devices, which are relevant to a wide range of mental illnesses, ultimately strengthening the tools available to support their treatment.
 
-## 팀(Kaggle)
+## TEAM(Kaggle)
 - Suji-highschool alumni
 
-## 환경
-- GITHUB, PYTHON, VSCODE/GOOGLE COLAB, 
+## ENVIORNMENTS
+- GITHUB, PYTHON, VSCODE/GOOGLE COLAB
 
-## 일정
-- 6.7 ~ 6.12
+## Team Meeting Minutes (Discussion Summary and Future Plans)
+* 6.7 ~ 6.12
     - Github 환경 설정
-    - 데이터 수집 환경 구축(Kaggle)
-    - 데이터셋 확인
-- 6.13(금)
+    - 계획
+        - 데이터 수집 환경 구축(Kaggle)
+        - 데이터셋 확인
+* 6.13(금)
     - 결과물 회의 및 계획
-- 6.14 ~ 6.21
+* 6.14 
     - 데이터 형태 확인
-    - EDA
-- 6.22
+    - 계획
+        - EDA
+* 6.22
     - 결과물 회의 및 계획
-    6/22 회의 , 할 거 정리
-    1. tof 데이터 줄이는 방안
-    2. sequence id 기준 groupby 하면 센서데이터 어떻게 할 것인지 ->텐서데이터 학습 방법 등
+    - 게획
+        1. tof 데이터 줄이는 방안
+        2. sequence id 기준 groupby 하면 센서데이터 어떻게 할 것인지 ->텐서데이터 학습 방법 등
+* 6.28(토) 
+
+## Dataset
+    - train.csv (Sensor data for training)
+    - train_demographic.csv (Demographic data for training)
+    - test.csv
+    - test_demographic.csv
+
+    * Records 
+
+    * Features
+    
+    * Target
+        - sequence_type: Indicates whether the sequence is a target (BFRBs) or non_target (not BFRBs).
+        - gesture: Specifies the type of BFRB gesture (for target) or the type of non-BFRB gesture (for non_target).
+
+## Purpose
+
+## Preprocessing
+
+## Modeling
+
+## Conclusion & Evaluation
 
 
-## 데이터셋
-
-
-## 모델
-
-
-## 결론
+## SKILLS
+- Python
+- Pandas
+- ML
+- etc.

@@ -22,7 +22,9 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
     - EDA
 - 6.22
     - 결과물 회의 및 계획
-
+    6/22 회의 , 할 거 정리
+    1. tof 데이터 줄이는 방안
+    2. sequence id 기준 groupby 하면 센서데이터 어떻게 할 것인지 ->텐서데이터 학습 방법 등
 
 
 ## 데이터셋

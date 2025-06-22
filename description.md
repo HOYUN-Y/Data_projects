@@ -29,11 +29,12 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
         2. sequence id 기준 groupby 하면 센서데이터 어떻게 할 것인지 ->텐서데이터 학습 방법 등
 * 6.28(토) 
 
-## Dataset
-- train.csv (Sensor data for training)
-- train_demographic.csv (Demographic data for training)
-- test.csv
-- test_demographic.csv
+## Data description
+* Dataset 
+    - train.csv (Sensor data for training)
+    - train_demographic.csv (Demographic data for training)
+    - test.csv
+    - test_demographic.csv
 
 * Records 
 

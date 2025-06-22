@@ -30,18 +30,18 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
 * 6.28(토) 
 
 ## Dataset
-    - train.csv (Sensor data for training)
-    - train_demographic.csv (Demographic data for training)
-    - test.csv
-    - test_demographic.csv
+- train.csv (Sensor data for training)
+- train_demographic.csv (Demographic data for training)
+- test.csv
+- test_demographic.csv
 
-    * Records 
+* Records 
 
-    * Features
-    
-    * Target
-        - sequence_type: Indicates whether the sequence is a target (BFRBs) or non_target (not BFRBs).
-        - gesture: Specifies the type of BFRB gesture (for target) or the type of non-BFRB gesture (for non_target).
+* Features
+
+* Target
+    - sequence_type: Indicates whether the sequence is a target (BFRBs) or non_target (not BFRBs).
+    - gesture: Specifies the type of BFRB gesture (for target) or the type of non-BFRB gesture (for non_target).
 
 ## Purpose
 

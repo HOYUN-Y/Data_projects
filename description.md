@@ -34,6 +34,7 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
         1. 데이터 전처리
         2. LSTM 기본 모델링
         3. 제출
+* 7.12(sat)
 
 ## Data description
 * Dataset 

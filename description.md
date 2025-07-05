@@ -28,6 +28,12 @@ Can you use movement, temperature, and proximity sensor data to differentiate be
         1. tof 데이터 줄이는 방안
         2. sequence id 기준 groupby 하면 센서데이터 어떻게 할 것인지 ->텐서데이터 학습 방법 등
 * 6.28(토) 
+* 7.05
+    - 결과물 회의 및 계획
+    - 계획
+        1. 데이터 전처리
+        2. LSTM 기본 모델링
+        3. 제출
 
 ## Data description
 * Dataset 

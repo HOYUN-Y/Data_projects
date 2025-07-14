@@ -6,4 +6,4 @@ DataAnalysis_project
 
 - SRI Data Challenge: Policy Proposal for Suwon City
     * Description
-        -
+        -https://github.com/HOYUN-Y/Data_projects/blob/main/dacon_sri_suwon_data_analysis/description.md

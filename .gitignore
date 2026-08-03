@@ -1,3 +1,6 @@
+# macOS 시스템 파일 (커밋마다 바이너리 충돌을 유발)
+.DS_Store
+
 cmi-data-competition/
 dacon_sri_suwon_data_analysis/.env
 dacon_sri_suwon_data_analysis/주정차단속데이터_시각화.ipynb
